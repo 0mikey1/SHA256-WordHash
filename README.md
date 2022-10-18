@@ -9,6 +9,12 @@ q1.py uses hashlib library to find words whose ASCII encoding corresponds to a g
 
 
 
+
+
+
+
+
+
 q3.py 
 ________________
 q3.py contains two functions encrypt and decrypt. 
