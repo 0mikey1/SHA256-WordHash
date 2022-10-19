@@ -1,9 +1,9 @@
 # SHA256-WordHash
-Python program that uses hashlib library to find words whose ASCII encoding corresponds to a given SHA-256 digest.
+**Python program that uses hashlib library to find words whose ASCII encoding corresponds to a given SHA-256 digest.**
 
 
 
-q1.py 
+**q1.py**
 ________________
 q1.py uses hashlib library to find words whose ASCII encoding corresponds to a given SHA-256 digest.
 
@@ -15,7 +15,7 @@ q1.py uses hashlib library to find words whose ASCII encoding corresponds to a g
 
 
 
-q3.py 
+**q3.py** 
 ________________
 q3.py contains two functions encrypt and decrypt. 
 
