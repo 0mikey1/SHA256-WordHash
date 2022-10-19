@@ -19,7 +19,7 @@ q1.py uses hashlib library to find words whose ASCII encoding corresponds to a g
 ________________
 **q3.py contains two functions encrypt and decrypt.** 
 
-encrypt(message, key) implements the following symmetric encryption algorithm which accepts a shared 8-bit key:
+**encrypt(message, key) implements the following symmetric encryption algorithm which accepts a shared 8-bit key:**
 
   - Breaks the plaintext into a list of characters.
   
@@ -31,7 +31,7 @@ encrypt(message, key) implements the following symmetric encryption algorithm wh
   
       - each packet gets encrypted separately, but the results of encrypting packets are concatenated together to generate the ciphertext.
     
- decrypt(cipher, key) gets the ciphertext and the key as input and returns the plaintext as output. 
+ **decrypt(cipher, key) gets the ciphertext and the key as input and returns the plaintext as output.**
   
   
   
